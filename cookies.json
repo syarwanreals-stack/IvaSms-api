@@ -1,1 +1,47 @@
-#Your Json Formated Cookies Here
+[
+    {
+        "name": "_fbp",
+        "value": "fb.1.1793201517971.113091984168572468",
+        "domain": ".ivasms.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": null,
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1800978914,
+        "storeId": null
+    },
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IkJwMGZVUFVpbUREM2NFY0tjMTNsL3c9PSIsInZhbHVlIjoiU25vdWNxMWNsanFUUFQ2NUl2UzdYaWJ0VnVST0lBc2x6YWN1YjQ1M2IxNGYycDZrd3RKRVovNjhuZ0ZPQ29GYWpKRFo1Z2FyVE5KM2NJaitTMVp1ekFaTHRrZlEvM2JReEsxT1dpdWlTVk5QZWxWL0kycFpHckQ3VnJlaEVxZkEiLCJtYWMiOiI1MTlhNmNkYWI3MzhkYWJkOWU4NDk2MGE1M2M5YTE1NDhiMDQ2YzFjMTViN2QyM2Y3ODAxNmM5NmFiY2YxMGQxIiwidGFnIjoiIn0%3D",
+        "domain": "www.ivasms.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1793210113.844,
+        "storeId": null
+    },
+    {
+        "name": "ivas_sms_session",
+        "value": "eyJpdiI6IkdiQkJRSE5OQ0NWbXZwamQvVFB0Wmc9PSIsInZhbHVlIjoiV1AwSmhkc3VwWFVpTVQwTS9BWUdnejFWb1RtZEVteWk0ZERUT0RSdHgvTWQ3VGMvNzlBaHBPWDZDRlJOWkNlM3dhMC9na0VZaFRORCtkRUs4VWtvam5hRmpZNUp5MVJaK1BhMjhjNU5jSzh0cHM2Ry9tWFBZTWJud05ubDV4dTIiLCJtYWMiOiIwOWMzODlhODU5ZmE2ZmYyMjA3YjBhZWM4MjcyNWRkODYwYzBiOGYyOTZmZDU5ZTY4YzAwMTg1NjMyYmI5ZjViIiwidGFnIjoiIn0%3D",
+        "domain": "www.ivasms.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1793210113.844,
+        "storeId": null
+    }
+]
